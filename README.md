@@ -41,5 +41,4 @@ Also including DSA, SQL and System Design
 -  **Automation**: Scheduled DAGs with Airflow or Prefect
 -  **Testing**: Unit tests to validate transformations and logic
 
----
-## 🙋‍♀️ Author - Selenge
+## by Selenge
