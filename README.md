@@ -12,7 +12,7 @@ Also including DSA, SQL and System Design
 - Practice SQL and data modeling techniques
 - Integrate batch and real-time data processing
 - Automate workflows using orchestration tools
-- Visualize data using BI tools
+- Visualize data using BI tools.
 
 ---
 
