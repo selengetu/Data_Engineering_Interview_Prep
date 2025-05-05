@@ -1,44 +1,51 @@
-# 🛠️ Data Engineering Prep for Big tech
+# 🛠️ Data Engineering Prep for Big Tech
 
-This project is designed to strengthen and demonstrate data engineering skills through hands-on implementation of key concepts including ETL/ELT, data warehousing, batch & streaming pipelines, and cloud-based data workflows.
-Also including DSA, SQL and System Design
+This repository documents my journey to becoming a Data Engineer at a top tech company (FAANG-level). It includes hands-on projects, technical exercises, and personal notes to strengthen core data engineering skills—covering everything from scalable pipelines and cloud data workflows to system design, SQL, and DSA prep.
 
 ---
 
-## 📌 Objectives
+## 📌 Goals
 
-- Leetcode
-- Build scalable ETL/ELT pipelines
-- Practice SQL and data modeling techniques
-- Integrate batch and real-time data processing
-- Automate workflows using orchestration tools
-- Visualize data using BI tools.
+- 🧠 Master LeetCode for algorithmic thinking (Neetcode, Leetcode)
+- 🏗️ Build robust ETL/ELT pipelines 
+- 🧮 Practice SQL and dimensional data modeling  (Neetcode, DataExpert)
+- 🔄 Integrate batch and real-time processing  
+- 🤖 Automate workflows with orchestration tools  
+- 📊 Create impactful data visualizations and dashboards  (PowerBi, Tableau, Looker. Streamlit)
+- 🧱 Prepare for system design interviews  
 
 ---
 
 ## 🧰 Tech Stack
 
-| Category              | Tools / Technologies                             |
-|-----------------------|--------------------------------------------------|
-| Programming           | Python, SQL                                      |
-| Orchestration         | Apache Airflow                     |
-| Batch Processing      | Pandas, PySpark                                  |
-| Streaming             | Kafka        |
-| Cloud Platform        | Azure / AWS / GCP          |
-| Data Warehousing      | BigQuery / Snowflake / Azure Synapse             |
-| BI & Visualization    | Power BI / Looker / Streamlit                    |
-| CI/CD & Automation    | GitHub Actions / dbt                             |
-| Data Storage          | Azure Blob Storage / Amazon S3                   |
+| Area                   | Tools & Technologies                              |
+|------------------------|---------------------------------------------------|
+| Programming            | Python, SQL                                       |
+| Orchestration          | Apache Airflow, Prefect                           |
+| Batch Processing       | Pandas, PySpark                                   |
+| Streaming              | Kafka, Azure Event Hub                            |
+| Cloud Platforms        | Azure, AWS, GCP                                   |
+| Data Warehousing       | BigQuery, Snowflake, Azure Synapse                |
+| Visualization & BI     | Power BI, Looker, Streamlit                       |
+| CI/CD & Automation     | GitHub Actions, dbt                               |
+| Data Storage           | Amazon S3, Azure Blob Storage                     |
 
 ---
 
-## 📈 Features
+## 📈 Key Projects & Features
 
--  **Batch Pipeline**: CSV/JSON to Cloud Warehouse via Data Factory / custom ETL
--  **Streaming Pipeline**: Real-time ingestion using Kafka or Event Hub
--  **Data Modeling**: Star schema for analytics-ready data
--  **Reporting**: Dashboards built using Power BI and Streamlit
--  **Automation**: Scheduled DAGs with Airflow or Prefect
--  **Testing**: Unit tests to validate transformations and logic
+- **Batch Pipelines**: Ingest and transform data (CSV/JSON) into cloud warehouses using Data Factory, AWS Glue and custom ETL scripts  
+- **Streaming Pipelines**: Real-time ingestion with Kafka/Event Hub and processing with Spark Structured Streaming  
+- **Data Modeling**: Star schema and normalized models for analytics  
+- **Dashboards**: Interactive reporting using Power BI and Streamlit  
+- **Automation**: Workflow orchestration using Airflow DAGs  
+- **Testing**: Unit tests and data quality checks on transformations  
 
-## by Selenge
+---
+
+## 🧭 About This Project
+
+I’m **Selenge**—a Data Engineer on a focused mission to land a role at Amazon, Meta, Microsoft, and other top tech companies.
+
+This repository reflects consistent learning, growth, and real-world problem-solving as I prepare for interviews and technical evaluations. If you're also preparing for a data engineering role, I hope this inspires and helps you.
+
